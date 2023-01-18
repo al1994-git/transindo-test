@@ -1,0 +1,52 @@
+/* =================== Header Components =================== */
+
+.header-custom {
+    height: 120px;
+    background-color: #7b8e8e;
+    /* background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; */
+  }
+
+
+
+/* =================== List Components ===========================*/
+
+.card-list-custom {
+    padding: 0 20px 0px 20px;
+    margin-bottom: 20px;
+    border-color: white;
+}
+
+.card-list-custom:hover {
+    border-left-width: 4px;
+    border-left-color: #B4CFCA;
+    /* cursor: pointer; */
+}
+
+/* =================== Filter Components ===========================*/
+
+.filter-custom {
+    padding: 0 20px 0px 20px;
+    margin: -30px 0 20px 0;
+    border-color: white;
+}
+
+/* .card-list-custom:hover {
+    border-left-width: 4px;
+    border-left-color: #B4CFCA;
+    cursor: pointer;
+} */
+
+/* =================== Badge Components ===========================*/
+
+.badge-custom {
+    margin: 0px 10px 0px 0;
+    cursor: pointer;
+}
+
+/* .card-list-custom:hover {
+    border-left-width: 4px;
+    border-left-color: #B4CFCA;
+    cursor: pointer;
+} */
