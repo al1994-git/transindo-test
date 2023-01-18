@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+clone
+cd to project
+npm install
+json-server --watch data.json --port 3005 (another terminal)
+npm start
 
 ## Available Scripts
 
